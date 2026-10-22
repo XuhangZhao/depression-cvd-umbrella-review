@@ -1,0 +1,315 @@
+field,reference,biomarker,sample_source,direction,subtype,population,number_of_studies,case_total,heterogeneity,publication_bias,evidence_class
+depression,"(Çakici et al., 2020)",CRP/hsCRP,mixed: serum and plasma,↑,MDD,MDD patients,5,179/389,Moderate,not applicable,I
+depression,"(Chen et al., 2020)",CRP/hsCRP,mixed: serum and plasma (hsCRP/high-sensitivity assay reported),↑,depressive disorder with suicidal behaviour,depressed patients with suicidal behaviour,4,96/231,Moderate,not applicable,I
+depression,"(Haapakoski et al., 2015)",CRP/hsCRP,mixed: serum and plasma (hsCRP/high-sensitivity assay reported),↑,MDD,MDD patients,20,746/1425,Moderate,NO,I
+depression,"(Howren et al., 2009)",CRP/hsCRP,blood (unspecified),↑,MDD,MDD vs nondepressed/healthy controls,16,NR/NR,NR,NR,I
+depression,"(Islam et al., 2023)",CRP/hsCRP,serum (hsCRP/high-sensitivity assay reported),NS,MDD,drug-naïve first-episode MDD patients,6,362/680,High,not applicable,I
+depression,"(Ng et al., 2018)",CRP/hsCRP,blood (unspecified),↑,depression,older adults with depression,9,2513/13504,High,not applicable,I
+depression,"(Osimo et al., 2020)",CRP/hsCRP,mixed: serum and plasma,↑,depression,depressed patients,35,1608/3278,High,NR,I
+depression,"(Strawbridge et al., 2015)",CRP/hsCRP,mixed: serum and plasma,↑,depression,depressed patients,5,NR/NR,NR,not applicable,I
+depression,"(Yang et al., 2022)",CRP/hsCRP,mixed: serum and plasma (hsCRP/high-sensitivity assay reported),↑,PSD,PSD patients,12,1041/3536,Moderate,NO,I
+depression,"(Osimo et al., 2019)",CRP/hsCRP,serum,↑,depression,depressed patients,4,3926/66674,NR,not applicable,I
+depression,"(Osimo et al., 2019)",CRP/hsCRP,serum,↑,depression,depressed patients,15,5177/111859,High,NO,I
+depression,"(Osimo et al., 2019)",CRP/hsCRP,serum,↑,depression,depressed patients,17,7761/163489,Moderate,NO,I
+depression,"(Zhang et al., 2023)",CRP/hsCRP,mixed: serum and plasma (hsCRP/high-sensitivity assay reported),↑,MDD,MDD vs HC,25,1343/2763,Low,NR,I
+depression,"(Zhang et al., 2023)",CRP/hsCRP,mixed: serum and plasma (hsCRP/high-sensitivity assay reported),↓,MDD,MDD vs BD,3,118/199,Low,not applicable,I
+depression,"(Fatemian et al., 2024)",CRP/hsCRP,mixed: serum and plasma (hsCRP/high-sensitivity assay reported),↑,depression with suicidal behaviour,depressed patients with suicidal behaviour vs HC,7,200/465,High,not applicable,I
+depression,"(Jarkas et al., 2024)",CRP/hsCRP,mixed: serum and plasma (hsCRP/high-sensitivity assay reported),↑,MDD,female depressed participants,13,2234/7306,Moderate,YES,I
+depression,"(Jarkas et al., 2024)",CRP/hsCRP,mixed: serum and plasma (hsCRP/high-sensitivity assay reported),NS,MDD,male depressed participants,12,906/5459,Moderate,YES,I
+depression,"(Li et al., 2024)",CRP/hsCRP,Not reported,↑,MDD,CHD patients with vs without depression,6,360/1147,High,not applicable,I
+depression,"(Li et al., 2024)",CRP/hsCRP,Not reported,NS,MDD,ACS patients with vs without depression,2,118/643,High,not applicable,I
+depression,"(Li et al., 2024)",CRP/hsCRP,Not reported (hsCRP/high-sensitivity assay reported),↑,MDD,CHD patients with vs without depression,4,122/524,Moderate,not applicable,I
+depression,"(Yang et al., 2026)",CRP/hsCRP,blood (unspecified) (hsCRP/high-sensitivity assay reported),NS,MDD,BD vs MDD,10,not applicable/NR,High,NO,I
+CVD,"(Buckley et al., 2009)",CRP/hsCRP,serum (hsCRP/high-sensitivity assay reported),↑,CHD,participants without CHD at baseline,22,NR/38138,Moderate,NO,I
+CVD,"(Ding et al., 2023)",CRP/hsCRP,blood (unspecified),NS,VTE ,general participants,1,89/396,Single-study,not applicable,I
+CVD,"(Ding et al., 2023)",CRP/hsCRP,blood (unspecified),NS,VTE ,newly diagnosed VTE patients,3,148/427,NR,not applicable,I
+CVD,"(Ding et al., 2023)",CRP/hsCRP,blood (unspecified),↑,VTE ,patients with previous VTE,1,586/885,Single-study,not applicable,I
+CVD,"(Hasan et al., 2012)",CRP/hsCRP,blood (unspecified),↑,AIS,stroke patients,7,NR/2093,High,not applicable,I
+CVD,"(Jayedi et al., 2019)",CRP/hsCRP,blood (unspecified),↑,incident hypertension,healthy adults at baseline,11,not applicable/NR,Moderate,NO,I
+CVD,"(Jia et al., 2020)",CRP/hsCRP,mixed: serum and plasma,↑,angina,angina patients,7,846/9286,High,not applicable,I
+CVD,"(Kuo et al., 2005)",CRP/hsCRP,plasma (hsCRP/high-sensitivity assay reported),↑,stroke,healthy adults at baseline,4,not applicable/9572,NR,not applicable,I
+CVD,"(Liu et al., 2014)",CRP/hsCRP,mixed: serum and plasma (hsCRP/high-sensitivity assay reported),↑,HF,CHF patients,10,796/1167,High,NR,I
+CVD,"(Saito et al., 2014)",CRP/hsCRP,blood (unspecified),↑,CVD outcome,East Asian population,3,NR/NR,Moderate,not applicable,I
+CVD,"(Saito et al., 2014)",CRP/hsCRP,blood (unspecified),NS,CHD outcome,East Asian population,4,NR/NR,Moderate,not applicable,I
+CVD,"(Saito et al., 2014)",CRP/hsCRP,blood (unspecified),↑,stroke outcome,East Asian population,6,NR/NR,Moderate,not applicable,I
+CVD,"(Tian et al., 2023)",CRP/hsCRP,blood (unspecified),↑,ICAS,ICAS patients,2,791/5355,Low,not applicable,I
+CVD,"(Liu et al., 2023)",CRP/hsCRP,blood (unspecified) (hsCRP/high-sensitivity assay reported),↑,incident CVD (HF/MI/CAD/stroke/CHD/AF),healthy adults at baseline,16,not applicable/NR,Moderate,NO,I
+CVD,"(Liu et al., 2023)",CRP/hsCRP,blood (unspecified) (hsCRP/high-sensitivity assay reported),↑,incident CVD (HF/MI/CAD/stroke/CHD/AF),healthy adults at baseline,3,not applicable/NR,Moderate,not applicable,I
+CVD,"(Piccardi et al., 2017)",CRP/hsCRP,mixed: serum and plasma (hsCRP/high-sensitivity assay reported),↑,cardioembolic stroke,cardioembolic stroke patients,4,NR/NR,Moderate,not applicable,I
+CVD,"(Ding et al., 2023)",CRP/hsCRP,blood (unspecified),↑,VTE ,general participants with CRP >3 µg/mL,3,16567/30488,NR,not applicable,I
+CVD,"(Ding et al., 2023)",CRP/hsCRP,blood (unspecified) (hsCRP/high-sensitivity assay reported),↑,VTE ,general participants,1,268/27807,Single-study,not applicable,I
+CVD,"(Ding et al., 2023)",CRP/hsCRP,blood (unspecified) (hsCRP/high-sensitivity assay reported),↑,VTE ,newly diagnosed VTE patients,4,276/473,NR,not applicable,I
+CVD,"(Ding et al., 2023)",CRP/hsCRP,blood (unspecified) (hsCRP/high-sensitivity assay reported),↑,VTE ,patients with previous VTE,4,674/1346,NR,not applicable,I
+CVD,"(Jayedi et al., 2019)",CRP/hsCRP,blood (unspecified) (hsCRP/high-sensitivity assay reported),↑,incident hypertension,healthy adults at baseline,5,not applicable/NR,Moderate,not applicable,I
+CVD,"(Tian et al., 2023)",CRP/hsCRP,blood (unspecified) (hsCRP/high-sensitivity assay reported),↑,ICAS,ICAS patients,4,979/9383,High,not applicable,I
+CVD,"(Zhou et al., 2016)",CRP/hsCRP,serum (hsCRP/high-sensitivity assay reported),NS,hemorrhagic stroke,high vs low hsCRP,4,655/40002,Low,not applicable,I
+CVD,"(Zhou et al., 2016)",CRP/hsCRP,serum (hsCRP/high-sensitivity assay reported),NS,total stroke,high vs low hsCRP,6,2269/48043,Moderate,not applicable,I
+CVD,"(Zhou et al., 2016)",CRP/hsCRP,serum (hsCRP/high-sensitivity assay reported),↑,IS,high vs low hsCRP,9,2436/57063,Low,not applicable,I
+CVD,"(Hasan et al., 2012)",CRP/hsCRP,blood (unspecified) (hsCRP/high-sensitivity assay reported),NS,AIS,stroke patients,1,NR/1197,Single-study,not applicable,I
+CVD,"(Ghulam et al., 2024)",CRP/hsCRP,serum (hsCRP/high-sensitivity assay reported),↑,myocarditis,myocarditis patients vs HC,4,258/493,High,not applicable,I
+CVD,"(Zhao et al., 2024)",CRP/hsCRP,blood (unspecified),↑,CSX,CSX patients,21,1224/2266,High,YES,I
+CVD,"(Berbach et al., 2025)",CRP/hsCRP,serum (hsCRP/high-sensitivity assay reported),↑,coronary microvascular disease,patients with non-obstructive CAD,15,890/1726,High,NR,I
+CVD,"(Berbach et al., 2025)",CRP/hsCRP,serum (hsCRP/high-sensitivity assay reported),↑,vasospastic disease,patients with non-obstructive CAD,7,1003/2829,High,not applicable,I
+CVD,"(Bombaci et al., 2026)",CRP/hsCRP,mixed: serum and plasma,↑,AIS,AIS patients,9,802/3416,High,not applicable,I
+CVD,"(Shen et al., 2025)",CRP/hsCRP,blood (unspecified) (hsCRP/high-sensitivity assay reported),↑,CVT vs HC,CVT patients vs HC,2,131/212,Low,not applicable,I
+CVD,"(Shen et al., 2025)",CRP/hsCRP,blood (unspecified),↑,CVT vs HC,CVT patients vs HC,2,186/319,High,not applicable,I
+CVD,"(Shen et al., 2025)",CRP/hsCRP,blood (unspecified) (hsCRP/high-sensitivity assay reported),↑,IS vs HC,IS patients vs HC,3,93/614,High,not applicable,I
+CVD,"(Shen et al., 2025)",CRP/hsCRP,blood (unspecified),↑,IS vs HC,IS patients vs HC,3,680/1742,Low,not applicable,I
+CVD,"(Shen et al., 2025)",CRP/hsCRP,blood (unspecified),↑,CVT vs IS,CVT vs IS patients,5,not applicable/NR,NR,not applicable,I
+CVD,"(Zare et al., 2026)",CRP/hsCRP,blood (unspecified) (hsCRP/high-sensitivity assay reported),↑,coronary slow flow,coronary slow flow patients vs HC,31,1589/3231,High,YES,I
+depression,"(Köhler et al., 2017)",IL-18,mixed: serum and plasma,↑,MDD,MDD patients,5,135/278,High,not applicable,I
+depression,"(Osimo et al., 2020)",IL-18,mixed: serum and plasma,↑,depression,depressed patients,6,174/378,High,not applicable,I
+depression,"(Kuring et al., 2023)",IL-18,blood (unspecified),NS,depression,depressed patients,3,NR/NR,NR,not applicable,I
+depression,"(Zheng et al., 2024)",IL-18,mixed: serum and plasma,NS,PSD,stroke patients with vs without depression,6,818/1952,High,not applicable,I
+depression,"(Yao Zhou et al., 2025)",IL-18,serum,↑,PSD,acute stroke patients with vs without depression,10,1177/2990,High,NO,I
+CVD,"(Aghajani et al., 2022)",IL-18,plasma,NS,pCAD,pCAD patients,3,983/2476,High,not applicable,I
+CVD,"(Jefferis et al., 2011)",IL-18,mixed: serum and plasma,↑,CHD onset risk,non-CVD participants or CAD/CHD patients,12,3047/15118,Low,NO,I
+depression,"(Çakici et al., 2020)",IL-6,mixed: serum and plasma,↑,MDD,MDD patients,6,334/625,High,not applicable,I
+depression,"(Dowlati et al., 2010)",IL-6,mixed: serum and plasma,↑,MDD,MDD patients,16,492/892,High,NO,I
+depression,"(Enache et al., 2019)",IL-6,CSF,↑,MDD,MDD vs normal controls,9,200/463,High,not applicable,I
+depression,"(Haapakoski et al., 2015)",IL-6,mixed: serum and plasma,↑,MDD,MDD patients,31,1045/2022,Moderate,NO,I
+depression,"(Hiles et al., 2012)",IL-6,mixed: serum and plasma,↑,MDD/dysthymia/high depressive symptoms,adults with non-perinatal depression,96,NR/29424,High,YES,I
+depression,"(Howren et al., 2009)",IL-6,blood (unspecified),↑,MDD,MDD vs nondepressed/healthy controls,25,NR/NR,NR,NR,I
+depression,"(Köhler et al., 2017)",IL-6,mixed: serum and plasma,↑,MDD,MDD patients,42,1587/2770,Moderate,NO,I
+depression,"(Kuring et al., 2023)",IL-6,mixed: peripheral blood and CSF,↑,depression,depressed patients,22,NR/NR,High,NR,I
+depression,"(Liu et al., 2012)",IL-6,mixed: serum and plasma,↑,MDD,MDD patients,18,508/923,Moderate,NO,I
+depression,"(Mousten et al., 2022)",IL-6,CSF,↑,clinically diagnosed unipolar depression (primarily MDD),MDD patients,7,156/385,Low,not applicable,I
+depression,"(Ng et al., 2018)",IL-6,blood (unspecified),↑,depression,older adults with depression,9,2016/9217,High,not applicable,I
+depression,"(Osimo et al., 2020)",IL-6,mixed: serum and plasma,↑,depression,depressed patients,62,2517/4875,High,NR,I
+depression,"(Strawbridge et al., 2015)",IL-6,mixed: serum and plasma,↑,depression,depressed patients,10,NR/NR,NR,NR,I
+depression,"(Wang & Miller, 2018)",IL-6,CSF,↑,MDD,MDD patients,7,127/349,Moderate,not applicable,I
+depression,"(Więdłocha et al., 2018)",IL-6,mixed: serum and plasma,↑,MDD,MDD patients,12,299/658,High,NR,I
+depression,"(Zhang et al., 2023)",IL-6,mixed: serum and plasma,↓,MDD,MDD vs BD,7,477/636,Low,not applicable,I
+depression,"(Zhang et al., 2023)",IL-6,mixed: serum and plasma,↑,MDD,MDD vs HC,42,1907/3793,Low,NR,I
+depression,"(Gopalakrishnan et al., 2025)",IL-6,mixed: serum and plasma,NS,MDD,BD vs MDD,7,645/994,High,not applicable,I
+depression,"(Jarkas et al., 2024)",IL-6,mixed: serum and plasma,↑,MDD,female depressed participants,12,1789/3226,High,NO,I
+depression,"(Jarkas et al., 2024)",IL-6,mixed: serum and plasma,NS,MDD,male depressed participants,14,1018/3238,High,NO,I
+depression,"(Li et al., 2024)",IL-6,Not reported,↑,MDD,CHD patients with vs without depression,4,265/956,High,not applicable,I
+depression,"(Li et al., 2024)",IL-6,Not reported,NS,MDD,ACS patients with vs without depression,2,118/643,High,not applicable,I
+depression,"(Zheng et al., 2024)",IL-6,mixed: serum and plasma,↑,PSD,stroke patients with vs without depression,35,2861/8098,High,NR,I
+depression,"(Yao Zhou et al., 2025)",IL-6,serum,↑,PSD,acute stroke patients with vs without depression,19,2116/5745,High,NO,I
+depression,"(Gedek et al., 2025)",IL-6,mixed: serum and plasma,↑,first-episode MDD,first-episode and/or antidepressant-naïve MDD patients vs HC,5,241/443,High,not applicable,I
+depression,"(Gedek et al., 2025)",IL-6,mixed: serum and plasma,↑,drug-naïve MDD,first-episode and/or antidepressant-naïve MDD patients vs HC,8,852/1372,High,not applicable,I
+depression,"(Moshfeghinia et al., 2025a)",IL-6,"mixed: serum, plasma, and CSF",↑,suicidal MDD vs HC,depressed patients with suicidal behaviour vs HC/non-suicidal depressed comparators,17,604/1211,High,NO,I
+depression,"(Yang et al., 2026)",IL-6,blood (unspecified),↑,MDD,BD vs MDD,11,not applicable/NR,High,NO,I
+CVD,"(Aghajani et al., 2022)",IL-6,plasma,↑,pCAD,pCAD patients,7,1076/2351,High,not applicable,I
+CVD,"(Ding et al., 2023)",IL-6,blood (unspecified),↑,VTE ,newly diagnosed VTE patients,1,95/136,Single-study,not applicable,I
+CVD,"(Ding et al., 2023)",IL-6,blood (unspecified),↑,VTE ,patients with previous VTE,2,168/342,NR,not applicable,I
+CVD,"(Hasan et al., 2012)",IL-6,blood (unspecified),NS,AIS,stroke patients,4,NR/1134,NR,not applicable,I
+CVD,"(Jayedi et al., 2019)",IL-6,blood (unspecified),↑,incident hypertension,healthy adults at baseline,4,not applicable/NR,Low,not applicable,I
+CVD,"(Liu et al., 2014)",IL-6,mixed: serum and plasma,↑,HF,CHF patients,15,733/1421,High,NR,I
+CVD,"(Liu et al., 2023)",IL-6,blood (unspecified),↑,incident CVD (HF/MI/CAD/stroke/CHD/AF),healthy adults at baseline,8,not applicable/NR,Low,not applicable,I
+CVD,"(Ruan et al., 2017)",IL-6,serum,↑,SAH,SAH patients,6,167/326,High,not applicable,I
+CVD,"(Ruan et al., 2017)",IL-6,CSF,↑,SAH,SAH patients,12,276/536,High,YES,I
+CVD,"(Takagi et al., 2014)",IL-6,mixed: serum and plasma,↑,AAA,AAA patients,13,1029/1953,Moderate,YES,I
+CVD,"(Wiseman et al., 2014)",IL-6,mixed: serum and plasma,↑,acute lacunar stroke,lacunar stroke patients,3,58/123,Moderate,not applicable,I
+CVD,"(Zhang et al., 2018)",IL-6,serum,↑,CVD endpoint,CVD patients,11,5400/20007,Moderate,NR,I
+CVD,"(Caiazzo et al., 2024)",IL-6,mixed: serum and plasma (high-sensitivity assay reported: ultrasensitive ELISA or Luminex xMAP),↑,HTN,highest vs lowest quartile,6,not applicable/not applicable,High,not applicable,I
+CVD,"(Huang et al., 2024)",IL-6,serum,↑,stroke,stroke patients,15,975/1696,High,YES,I
+CVD,"(Zhao et al., 2024)",IL-6,blood (unspecified),↑,CSX,CSX patients,4,261/494,High,not applicable,I
+CVD,"(Berbach et al., 2025)",IL-6,serum,NS,non-obstructive CAD,patients with non-obstructive CAD,4,174/444,High,not applicable,I
+CVD,"(Bombaci et al., 2026)",IL-6,mixed: serum and plasma,↑,AIS,AIS patients,15,975/1696,High,YES,I
+CVD,"(Shen et al., 2025)",IL-6,blood (unspecified),↑,CVT vs HC,CVT patients vs HC,2,241/375,Low,not applicable,I
+CVD,"(Shen et al., 2025)",IL-6,blood (unspecified),↑,IS vs HC,IS patients vs HC,2,582/1972,Low,not applicable,I
+CVD,"(Shen et al., 2025)",IL-6,blood (unspecified),↑,CVT vs IS,CVT vs IS patients,4,not applicable/NR,NR,not applicable,I
+depression,"(Çakici et al., 2020)",CCL2,serum,NS,MDD,MDD patients,2,49/98,High,not applicable,I
+depression,"(Eyre et al., 2016)",CCL2,mixed: serum and plasma,↑,MDD,MDD patients,8,316/762,High,not applicable,I
+depression,"(Gopalakrishnan et al., 2025)",CCL2,mixed: serum and plasma,NS,MDD,BD vs MDD,3,257/408,High,not applicable,I
+depression,"(Islam et al., 2023)",CCL2,mixed: serum and plasma,NS,MDD,drug-naïve first-episode MDD patients,4,271/550,High,not applicable,I
+depression,"(Köhler et al., 2017)",CCL2,blood (unspecified),↑,MDD,MDD patients,8,285/572,High,not applicable,I
+depression,"(Kuring et al., 2023)",CCL2,blood (unspecified),NS,depression,depressed patients,7,NR/NR,NR,not applicable,I
+depression,"(Leighton et al., 2018)",CCL2,mixed: serum and plasma,↑,depression,depressed patients,21,1507/4688,High,YES,I
+CVD,"(Georgakis et al., 2019)",CCL2,mixed: serum and plasma,↑,incident any stroke,stroke-free population at baseline,6,not applicable/16884,Low,not applicable,I
+depression,"(Foley É et al., 2023)",neutrophils,peripheral blood (flow cytometry-derived),↑,MDD,MDD patients,4,282/399,High,not applicable,I
+depression,"(Kuring et al., 2023)",neutrophils,peripheral blood (cell-count-derived),↑,depression,depressed patients,4,NR/NR,High,not applicable,I
+depression,"(Sørensen et al., 2023)",neutrophils,peripheral blood (cell-count-derived),↑,MDD,depressed patients,24,1442/2517,High,NO,I
+depression,"(Yang et al., 2026)",neutrophils,peripheral blood (cell-count-derived),↑,MDD,BD vs MDD,4,not applicable/NR,High,not applicable,I
+CVD,"(Ding et al., 2023)",neutrophils,peripheral blood (cell-count-derived),↑,VTE ,newly diagnosed VTE patients,6,609/1089,NR,not applicable,I
+CVD,"(Ding et al., 2023)",neutrophils,peripheral blood (cell-count-derived),NS,VTE ,patients with previous VTE,2,826/1365,NR,not applicable,I
+CVD,"(Bombaci et al., 2026)",neutrophils,peripheral blood (cell-count-derived),↑,AIS,AIS patients,2,97/308,Moderate,not applicable,I
+CVD,"(Shen et al., 2025)",neutrophils,peripheral blood (cell-count-derived),↑,CVT vs HC,CVT patients vs HC,7,484/1192,High,not applicable,I
+CVD,"(Shen et al., 2025)",neutrophils,peripheral blood (cell-count-derived),↑,IS vs HC,IS patients vs HC,4,463/1575,Low,not applicable,I
+depression,"(Foley É et al., 2023)",monocytes,peripheral blood (flow cytometry-derived),↑,MDD,MDD patients,7,191/332,Moderate,not applicable,I
+depression,"(Kuring et al., 2023)",monocytes,peripheral blood (cell-count-derived),↑,depression,depressed patients,5,NR/NR,High,not applicable,I
+depression,"(Sørensen et al., 2023)",monocytes,peripheral blood (cell-count-derived),↑,MDD,depressed patients,27,1049/1903,High,NO,I
+depression,"(Yang et al., 2026)",monocytes,peripheral blood (cell-count-derived),NS,MDD,BD vs MDD,5,not applicable/NR,High,not applicable,I
+CVD,"(Ding et al., 2023)",monocytes,peripheral blood (cell-count-derived),↑,VTE ,newly diagnosed VTE patients,2,151/296,NR,not applicable,I
+CVD,"(Ding et al., 2023)",monocytes,peripheral blood (cell-count-derived),NS,VTE ,patients with previous VTE,1,240/480,Single-study,not applicable,I
+CVD,"(Shen et al., 2025)",monocytes,peripheral blood (cell-count-derived),↑,CVT vs HC,CVT patients vs HC,4,312/545,Moderate,not applicable,I
+CVD,"(Shen et al., 2025)",monocytes,peripheral blood (cell-count-derived),↑,IS vs HC,IS patients vs HC,3,606/1759,High,not applicable,I
+depression,"(Cheng et al., 2022)",NLR,peripheral blood (CBC-derived ratio),↑,MDD/PSD,depressed patients,17,2220/4780,High,NO,I
+depression,"(Mazza et al., 2018)",NLR,peripheral blood (CBC-derived ratio),↑,MDD,MDD patients,4,239/553,High,not applicable,I
+depression,"(Sarejloo et al., 2022)",NLR,peripheral blood (CBC-derived ratio),↑,PSD,stroke patients,7,516/1831,Moderate,not applicable,I
+depression,"(Sørensen et al., 2023)",NLR,peripheral blood (CBC-derived ratio),↑,MDD,depressed patients,11,1242/2188,Moderate,NR,I
+depression,"(Su et al., 2022)",NLR,peripheral blood (CBC-derived ratio),↑,depression,depressed patients,20,2580/5244,High,NO,I
+depression,"(Jiang et al., 2025)",NLR,peripheral blood (CBC-derived ratio),↑,MDD,depressed participants,19,not applicable/38845,High,NR,I
+depression,"(Moshfeghinia et al., 2025b)",NLR,peripheral blood (CBC-derived ratio),↑,MDD,MDD patients with suicidal behaviour vs HC,8,412/898,High,not applicable,I
+depression,"(Yuanyuan Zhou et al., 2025)",NLR,peripheral blood (CBC-derived ratio),↑,"depressive disorder prevalence, categorical",depressive disorder groups vs comparators,10,not applicable/NR,High,YES,I
+depression,"(Yuanyuan Zhou et al., 2025)",NLR,peripheral blood (CBC-derived ratio),↑,"depressive disorder prevalence, continuous",depressive disorder groups vs comparators,33,not applicable/NR,High,YES,I
+depression,"(Jiang et al., 2025)",NLR,peripheral blood (CBC-derived ratio),↑,MDD,depressed participants,16,not applicable/126511,High,YES,I
+CVD,"(Ding et al., 2023)",NLR,peripheral blood (CBC-derived ratio),↑,VTE ,newly diagnosed VTE patients,8,781/1336,NR,not applicable,I
+CVD,"(Ding et al., 2023)",NLR,peripheral blood (CBC-derived ratio),NS,VTE ,patients with previous VTE,1,586/885,Single-study,not applicable,I
+CVD,"(Sarejloo et al., 2023)",NLR,peripheral blood (CBC-derived ratio),↑,HTN,HTN patients,17,1847/2863,High,NO,I
+CVD,"(Xu et al., 2020)",NLR,peripheral blood (CBC-derived ratio),↑,aortic disease,aortic disease patients vs controls,4,460/868,High,not applicable,I
+CVD,"(Chi et al., 2025)",NLR,peripheral blood (CBC-derived ratio),↑,HTN,adults without HTN at baseline,4,not applicable/47652,Moderate,not applicable,I
+CVD,"(Zhao et al., 2024)",NLR,peripheral blood (CBC-derived ratio),↑,CSX,CSX patients,13,996/1936,High,YES,I
+CVD,"(Bombaci et al., 2026)",NLR,peripheral blood (CBC-derived ratio),NS,AIS,AIS patients,2,97/308,High,not applicable,I
+CVD,"(Shen et al., 2025)",NLR,peripheral blood (CBC-derived ratio),↑,CVT vs HC,CVT patients vs HC,8,579/1328,High,not applicable,I
+CVD,"(Shen et al., 2025)",NLR,peripheral blood (CBC-derived ratio),↑,IS vs HC,IS patients vs HC,4,530/1639,High,not applicable,I
+depression,"(Cheng et al., 2022)",PLR,peripheral blood (CBC-derived ratio),↑,MDD/PSD,depressed patients,10,1399/3126,High,NO,I
+depression,"(Sarejloo et al., 2022)",PLR,peripheral blood (CBC-derived ratio),↑,PSD,stroke patients,3,310/1117,High,not applicable,I
+depression,"(Sørensen et al., 2023)",PLR,peripheral blood (CBC-derived ratio),NS,MDD,depressed patients,4,409/874,High,not applicable,I
+depression,"(Su et al., 2022)",PLR,peripheral blood (CBC-derived ratio),NS,depression,depressed patients,12,1393/2763,High,NO,I
+depression,"(Moshfeghinia et al., 2025b)",PLR,peripheral blood (CBC-derived ratio),↑,MDD,MDD patients with suicidal behaviour vs HC,5,263/613,Moderate,not applicable,I
+depression,"(Zhu and Li, 2025)",PLR,peripheral blood (CBC-derived ratio),↑,depression risk (categorical),depressive disorder groups vs comparators,8,not applicable/6284,High,not applicable,I
+depression,"(Zhu and Li, 2025)",PLR,peripheral blood (CBC-derived ratio),↑,depression risk (continuous),depressive disorder groups vs comparators,22,not applicable/NR,High,YES,I
+CVD,"(Ding et al., 2023)",PLR,peripheral blood (CBC-derived ratio),↑,VTE ,newly diagnosed VTE patients,5,574/1027,NR,not applicable,I
+CVD,"(Ding et al., 2023)",PLR,peripheral blood (CBC-derived ratio),NS,VTE ,patients with previous VTE,1,586/885,Single-study,not applicable,I
+CVD,"(Zhao et al., 2024)",PLR,peripheral blood (CBC-derived ratio),↑,CSX,CSX patients,4,347/694,High,not applicable,I
+CVD,"(Shen et al., 2025)",PLR,peripheral blood (CBC-derived ratio),↑,CVT vs HC,CVT patients vs HC,5,392/822,Moderate,not applicable,I
+CVD,"(Shen et al., 2025)",PLR,peripheral blood (CBC-derived ratio),↑,IS vs HC,IS patients vs HC,3,247/484,High,not applicable,I
+depression,"(Jiang et al., 2025)",SII,peripheral blood (CBC-derived ratio),↑,MDD,depressed participants,10,not applicable/40082,High,NO,I
+CVD,"(Ye et al., 2022)",SII,peripheral blood (CBC-derived ratio),↑,CVD outcome,CVD patients,8,84527/146349,High,not applicable,I
+CVD,"(Yu et al., 2025)",SII,peripheral blood (CBC-derived ratio),NS,HF,adults without HF at baseline,3,NR/NR,Moderate,not applicable,I
+CVD,"(Yu et al., 2025)",SII,peripheral blood (CBC-derived ratio),↑,HF,HF vs non-HF participants,2,1833/53984,Moderate,not applicable,I
+CVD,"(Chen et al., 2025)",SII,peripheral blood (CBC-derived ratio),↑,DVT,DVT vs non-DVT participants,9,NR/2659,High,not applicable,I
+CVD,"(Chen et al., 2025)",SII,peripheral blood (CBC-derived ratio),↑,DVT risk (high vs low SII),participants with high vs low SII and DVT outcome,7,not applicable/10652,High,not applicable,I
+CVD,"(Shen et al., 2025)",SII,peripheral blood (CBC-derived ratio),↑,CVT vs HC,CVT patients vs HC,2,236/389,Low,not applicable,I
+CVD,"(Shen et al., 2025)",SII,peripheral blood (CBC-derived ratio),↑,IS vs HC,IS patients vs HC,2,340/1341,Low,not applicable,I
+CVD,"(Sun et al., 2025)",SII,peripheral blood (CBC-derived ratio),↑,incident hypertension,participants at risk of HTN: HTN vs non-HTN,6,97653/213773,High,not applicable,I
+CVD,"(Sun et al., 2025)",SII,peripheral blood (CBC-derived ratio),↑,incident hypertension,participants at risk of HTN,8,not applicable/NR,High,not applicable,I
+depression,"(Enache et al., 2019)",IL-1β,CSF,↓,MDD,MDD vs normal controls,3,83/161,High,not applicable,II
+depression,"(Osimo et al., 2020)",IL-1β,mixed: serum and plasma,↑,depression,depressed patients,26,1000/1949,High,NR,II
+depression,"(Çakici et al., 2020)",IL-1β,mixed: serum and plasma,↑,MDD,MDD patients,5,249/488,High,not applicable,II
+depression,"(Dowlati et al., 2010)",IL-1β,mixed: serum and plasma,NS,MDD,MDD patients,9,267/513,High,not applicable,II
+depression,"(Haapakoski et al., 2015)",IL-1β,mixed: serum and plasma,NS,MDD,MDD patients,14,491/1000,High,NO,II
+depression,"(Köhler et al., 2017)",IL-1β,mixed: serum and plasma,NS,MDD,MDD patients,22,779/1506,High,NO,II
+depression,"(Kuring et al., 2023)",IL-1β,blood (unspecified),NS,depression,depressed patients,11,NR/NR,NR,NR,II
+depression,"(Liu et al., 2012)",IL-1β,mixed: serum and plasma,NS,MDD,MDD patients,10,290/580,High,NO,II
+depression,"(Ng et al., 2018)",IL-1β,blood (unspecified),↑,depression,older adults with depression,5,292/1187,High,not applicable,II
+depression,"(Wang & Miller, 2018)",IL-1β,CSF,NS,MDD,MDD patients,2,30/87,High,not applicable,II
+depression,"(Więdłocha et al., 2018)",IL-1β,mixed: serum and plasma,↓,MDD,MDD patients,3,84/176,Low,not applicable,II
+depression,"(Zhang et al., 2023)",IL-1β,mixed: serum and plasma,↑,MDD,MDD vs BD,NR,505/710,Low,NR,II
+depression,"(Zhang et al., 2023)",IL-1β,mixed: serum and plasma,↑,MDD,MDD vs HC,NR,425/850,Moderate,NR,II
+depression,"(Gopalakrishnan et al., 2025)",IL-1β,mixed: serum and plasma,NS,MDD,BD vs MDD,4,552/819,High,not applicable,II
+depression,"(Zheng et al., 2024)",IL-1β,mixed: serum and plasma,NS,PSD,stroke patients with vs without depression,10,1176/3021,High,NR,II
+depression,"(Yao Zhou et al., 2025)",IL-1β,serum,↑,PSD,acute stroke patients with vs without depression,10,1228/3097,High,NO,II
+depression,"(Gedek et al., 2025)",IL-1β,mixed: serum and plasma,NS,first-episode MDD,first-episode and/or antidepressant-naïve MDD patients vs HC,2,88/182,High,not applicable,II
+depression,"(Gedek et al., 2025)",IL-1β,mixed: serum and plasma,NS,drug-naïve MDD,first-episode and/or antidepressant-naïve MDD patients vs HC,4,338/574,High,not applicable,II
+CVD,"(Jayedi et al., 2019)",IL-1β,blood (unspecified),NS,incident hypertension,healthy adults at baseline,2,not applicable/NR,Low,not applicable,II
+CVD,"(Liu et al., 2014)",IL-1β,mixed: serum and plasma,↑,HF,CHF patients,3,78/233,Moderate,not applicable,II
+CVD,"(Caiazzo et al., 2024)",IL-1β,mixed: serum and plasma,NS,HTN,highest vs lowest quartile,2,not applicable/not applicable,Low,not applicable,II
+depression,"(Leighton et al., 2018)",CXCL4,mixed: serum and plasma,↑,depression,depressed patients,11,404/816,High,NO,II
+depression,"(Kuring et al., 2023)",CXCL4,blood (unspecified),↑,depression,depressed patients,1,NR/NR,Single-study,not applicable,II
+CVD,"(Brambilla et al., 2025)",CXCL4,plasma (RIA assay),↑,coronary artery disease,CAD patients vs HC,27,1386/2491,NR,NR,II
+CVD,"(Brambilla et al., 2025)",CXCL4,plasma (ELISA assay),↑,coronary artery disease,CAD patients vs HC,8,295/551,NR,not applicable,II
+depression,"(Osimo et al., 2020)",TGF-β1/TGF-β,mixed: serum and plasma,NS,depression,depressed patients,5,285/530,High,not applicable,III
+depression,"(Çakici et al., 2020)",TGF-β1/TGF-β,mixed: serum and plasma,NS,MDD,MDD patients,4,221/414,High,not applicable,III
+depression,"(Köhler et al., 2017)",TGF-β1/TGF-β,mixed: serum and plasma,NS,MDD,MDD patients,3,110/178,High,not applicable,III
+depression,"(Kuring et al., 2023)",TGF-β1/TGF-β,blood (unspecified),NS,depression,depressed patients,2,NR/NR,NR,not applicable,III
+depression,"(Gedek et al., 2025)",TGF-β1/TGF-β,mixed: serum and plasma,NS,drug-naïve MDD,first-episode and/or antidepressant-naïve MDD patients vs HC,4,445/669,High,not applicable,III
+CVD,"(Li et al., 2016)",TGF-β1/TGF-β,plasma,↑,AF,AF patients,4,not applicable/1725,Moderate,not applicable,III
+CVD,"(Li et al., 2016)",TGF-β1/TGF-β,plasma,↑,AF,AF patients,13,746/1816,High,YES,III
+depression,"(Köhler et al., 2017)",IL-17A/IL-17,mixed: serum and plasma,NS,MDD,MDD patients,3,85/191,Moderate,not applicable,III
+depression,"(Kuring et al., 2023)",IL-17A/IL-17,blood (unspecified),↑,depression,depressed patients,5,NR/NR,Moderate,not applicable,III
+depression,"(Moulton et al., 2025)",IL-17A/IL-17,mixed: serum and plasma,↑,MDD,MDD patients,11,469/902,High,YES,III
+depression,"(Zheng et al., 2024)",IL-17A/IL-17,mixed: serum and plasma,NS,PSD,stroke patients with vs without depression,5,435/1288,High,not applicable,III
+CVD,"(Aghajani et al., 2022)",IL-17A/IL-17,plasma,↑,pCAD,pCAD patients,1,45/80,Single-study,not applicable,III
+CVD,"(Miao et al., 2024)",IL-17A/IL-17,serum,↑,ICVD,ICVD patients,6,419/674,High,not applicable,III
+depression,"(Li et al., 2024)",fibrinogen,Not reported,NS,MDD,CHD patients with vs without depression,4,445/1771,High,not applicable,III
+CVD,"(Takagi et al., 2009)",fibrinogen,plasma,↑,AAA,AAA patients,10,834/7805,Low,NO,III
+CVD,"(Wang et al., 2022)",fibrinogen,serum,↑,PAD outcome,high vs low fibrinogen population,12,not applicable/303710,High,NO,III
+CVD,"(Wang et al., 2022)",fibrinogen,serum,↑,PAD,PAD patients,21,NR/17998,High,NO,III
+CVD,"(Wiseman et al., 2014)",fibrinogen,mixed: serum and plasma,↑,chronic lacunar stroke,lacunar stroke patients,2,74/153,High,not applicable,III
+CVD,"(Wiseman et al., 2014)",fibrinogen,mixed: serum and plasma,NS,acute lacunar stroke,lacunar stroke patients,2,81/133,Low,not applicable,III
+CVD,"(Liu et al., 2023)",fibrinogen,plasma,↑,incident CVD (HF/MI/CAD/stroke/CHD/AF),healthy adults at baseline,4,not applicable/NR,Moderate,not applicable,III
+CVD,"(Liu et al., 2023)",fibrinogen,plasma,↑,incident CVD (HF/MI/CAD/stroke/CHD/AF),healthy adults at baseline,5,not applicable/NR,Moderate,not applicable,III
+depression,"(Çakici et al., 2020)",IL-10,mixed: serum and plasma,NS,MDD,MDD patients,3,170/323,High,not applicable,III
+depression,"(Dowlati et al., 2010)",IL-10,mixed: serum and plasma,NS,MDD,MDD patients,6,171/371,High,not applicable,III
+depression,"(Hiles et al., 2012)",IL-10,mixed: serum and plasma,NS,MDD/dysthymia/high depressive symptoms,adults with non-perinatal depression,19,NR/1699,High,NO,III
+depression,"(Köhler et al., 2017)",IL-10,mixed: serum and plasma,↑,MDD,MDD patients,17,608/1283,High,NO,III
+depression,"(Liu et al., 2012)",IL-10,mixed: serum and plasma,NS,MDD,MDD patients,6,156/324,NR,not applicable,III
+depression,"(Osimo et al., 2020)",IL-10,mixed: serum and plasma,↑,depression,depressed patients,19,849/1760,High,NR,III
+depression,"(Więdłocha et al., 2018)",IL-10,mixed: serum and plasma,NS,MDD,MDD patients,4,103/213,High,not applicable,III
+depression,"(Zhang et al., 2023)",IL-10,mixed: serum and plasma,NS,MDD,MDD vs HC,NR,816/1775,Low,NR,III
+depression,"(Kuring et al., 2023)",IL-10,blood (unspecified),NS,depression,depressed patients,9,NR/NR,NR,not applicable,III
+depression,"(Gopalakrishnan et al., 2025)",IL-10,mixed: serum and plasma,NS,MDD,BD vs MDD,3,436/613,High,not applicable,III
+depression,"(Zheng et al., 2024)",IL-10,mixed: serum and plasma,↓,PSD,stroke patients with vs without depression,7,850/2017,Moderate,not applicable,III
+depression,"(Yao Zhou et al., 2025)",IL-10,serum,NS,PSD,acute stroke patients with vs without depression,7,976/2477,Moderate,not applicable,III
+depression,"(Gedek et al., 2025)",IL-10,mixed: serum and plasma,↑,drug-naïve MDD,first-episode and/or antidepressant-naïve MDD patients vs HC,3,310/548,Low,not applicable,III
+depression,"(Yang et al., 2026)",IL-10,blood (unspecified),NS,MDD,BD vs MDD,4,not applicable/NR,High,not applicable,III
+CVD,"(Aghajani et al., 2022)",IL-10,plasma,NS,pCAD,pCAD patients,4,1750/3352,High,not applicable,III
+CVD,"(Diao et al., 2016)",IL-10,serum,↓,cerebral infarction,cerebral infarction patients,9,1073/2989,High,not applicable,III
+CVD,"(Hasan et al., 2012)",IL-10,blood (unspecified),NS,AIS,stroke patients,2,NR/64,NR,not applicable,III
+CVD,"(Ni et al., 2019)",IL-10,mixed: serum and plasma,NS,CVD,CVD patients vs HC,14,1343/1858,High,NO,III
+depression,"(Çakici et al., 2020)",TNF-α,mixed: serum and plasma,↑,MDD,MDD patients,5,267/506,High,not applicable,III
+depression,"(Dowlati et al., 2010)",TNF-α,mixed: serum and plasma,↑,MDD,MDD patients,13,438/788,High,NO,III
+depression,"(Enache et al., 2019)",TNF-α,CSF,↑,MDD,MDD vs normal controls,4,101/204,High,not applicable,III
+depression,"(Haapakoski et al., 2015)",TNF-α,mixed: serum and plasma,↑,MDD,MDD patients,31,1214/2476,High,NO,III
+depression,"(Islam et al., 2023)",TNF-α,serum,↑,MDD,drug-naïve first-episode MDD patients,8,459/910,High,not applicable,III
+depression,"(Köhler et al., 2017)",TNF-α,mixed: serum and plasma,↑,MDD,MDD patients,42,1620/3077,High,YES,III
+depression,"(Kuring et al., 2023)",TNF-α,blood (unspecified),NS,depression,depressed patients,13,NR/NR,NR,NR,III
+depression,"(Liu et al., 2012)",TNF-α,mixed: serum and plasma,↑,MDD,MDD patients,15,541/985,High,NO,III
+depression,"(Mousten et al., 2022)",TNF-α,CSF,NS,clinically diagnosed unipolar depression (primarily MDD),depressed patients,2,50/122,Low,not applicable,III
+depression,"(Ng et al., 2018)",TNF-α,blood (unspecified),NS,depression,older adults with depression,5,478/5089,Moderate,not applicable,III
+depression,"(Osimo et al., 2020)",TNF-α,mixed: serum and plasma,↑,depression,depressed patients,48,1992/4083,High,NR,III
+depression,"(Strawbridge et al., 2015)",TNF-α,mixed: serum and plasma,↑,depression,depressed patients,10,NR/NR,NR,NR,III
+depression,"(Wang & Miller, 2018)",TNF-α,CSF,NS,MDD,MDD patients,3,48/130,Low,not applicable,III
+depression,"(Więdłocha et al., 2018)",TNF-α,mixed: serum and plasma,↑,MDD,MDD patients,9,247/569,High,not applicable,III
+depression,"(Zhang et al., 2023)",TNF-α,mixed: serum and plasma,↓,MDD,MDD vs HC,NR,1701/1939,Moderate,NR,III
+depression,"(Zhang et al., 2023)",TNF-α,mixed: serum and plasma,NS,MDD,MDD vs BD,NR,1254/2758,Moderate,NR,III
+depression,"(Gopalakrishnan et al., 2025)",TNF-α,mixed: serum and plasma,NS,MDD,BD vs MDD,5,602/902,High,not applicable,III
+depression,"(Jarkas et al., 2024)",TNF-α,mixed: serum and plasma,NS,MDD,female depressed participants,8,1625/2554,High,not applicable,III
+depression,"(Jarkas et al., 2024)",TNF-α,mixed: serum and plasma,NS,MDD,male depressed participants,10,712/2092,High,YES,III
+depression,"(Yao Zhou et al., 2025)",TNF-α,serum,↑,PSD,acute stroke patients with vs without depression,13,1451/3689,High,NO,III
+depression,"(Gedek et al., 2025)",TNF-α,mixed: serum and plasma,↑,first-episode MDD,first-episode and/or antidepressant-naïve MDD patients vs HC,4,129/271,High,not applicable,III
+depression,"(Gedek et al., 2025)",TNF-α,mixed: serum and plasma,↑,drug-naïve MDD,first-episode and/or antidepressant-naïve MDD patients vs HC,6,444/799,High,not applicable,III
+depression,"(Li et al., 2026)",TNF-α,"mixed: serum, plasma, dried blood, and not reported (high-sensitivity assay reported: high-sensitivity ELISA; ELISA; Luminex/biochip arrays in included studies)",↑,first-episode drug-naïve MDD,first-episode drug-naïve MDD patients vs HC,16,866/1625,High,NO,III
+depression,"(Moshfeghinia et al., 2025a)",TNF-α,"mixed: serum, plasma, and CSF",NS,suicidal MDD vs HC,depressed patients with suicidal behaviour vs HC/non-suicidal depressed comparators,13,468/881,High,NO,III
+depression,"(Yang et al., 2026)",TNF-α,blood (unspecified),NS,MDD,BD vs MDD,8,not applicable/NR,Moderate,not applicable,III
+CVD,"(Hasan et al., 2012)",TNF-α,blood (unspecified),NS,AIS,stroke patients,2,NR/396,NR,not applicable,III
+CVD,"(Liu et al., 2014)",TNF-α,mixed: serum and plasma,↑,HF,CHF patients,19,1016/1852,High,NO,III
+CVD,"(Ruan et al., 2017)",TNF-α,serum,↑,SAH,SAH patients,2,79/171,High,not applicable,III
+CVD,"(Ruan et al., 2017)",TNF-α,CSF,↑,SAH,SAH patients,7,224/400,High,not applicable,III
+CVD,"(Zhao et al., 2024)",TNF-α,blood (unspecified),↑,CSX,CSX patients,4,257/477,High,not applicable,III
+depression,"(Kuring et al., 2023)",IL-1,blood (unspecified),↑,depression,depressed patients,1,NR/NR,Single-study,not applicable,III
+depression,"(Zheng et al., 2024)",IL-1,mixed: serum and plasma,↑,PSD,stroke patients with vs without depression,5,398/968,High,not applicable,III
+CVD,"(Aghajani et al., 2022)",IL-1,plasma,↑,pCAD,pCAD patients,1,58/263,Single-study,not applicable,III
+depression,"(Enache et al., 2019)",IL-8,CSF,↑,MDD,MDD vs normal controls,3,89/224,High,not applicable,III
+depression,"(Leighton et al., 2018)",IL-8,mixed: serum and plasma,NS,depression,depressed patients,6,NR/361,NR,not applicable,III
+depression,"(Kuring et al., 2023)",IL-8,blood (unspecified),NS,depression,depressed patients,1,NR/NR,Single-study,not applicable,III
+depression,"(Leighton et al., 2018)",IL-8,CSF,↑,depression,depressed patients,40,1510/3788,High,NO,III
+depression,"(Çakici et al., 2020)",IL-8,mixed: serum and plasma,↓,MDD,MDD patients,2,143/269,High,not applicable,III
+depression,"(Dowlati et al., 2010)",IL-8,mixed: serum and plasma,NS,MDD,MDD patients,4,205/382,High,not applicable,III
+depression,"(Köhler et al., 2017)",IL-8,mixed: serum and plasma,NS,MDD,MDD patients,7,306/523,High,not applicable,III
+depression,"(Liu et al., 2012)",IL-8,mixed: serum and plasma,NS,MDD,MDD patients,4,133/335,NR,not applicable,III
+depression,"(Mousten et al., 2022)",IL-8,CSF,NS,clinically diagnosed unipolar depression (primarily MDD),MDD patients,5,234/531,Moderate,not applicable,III
+depression,"(Osimo et al., 2020)",IL-8,mixed: serum and plasma,↑,depression,depressed patients,9,543/1007,High,not applicable,III
+depression,"(Wang & Miller, 2018)",IL-8,CSF,↑,MDD,MDD patients,2,38/152,Moderate,not applicable,III
+depression,"(Zhang et al., 2023)",IL-8,mixed: serum and plasma,NS,MDD,MDD vs HC,NR,249/493,Moderate,NR,III
+depression,"(Eyre et al., 2016)",IL-8,serum,NS,MDD,MDD patients,7,382/581,High,not applicable,III
+depression,"(Kuring et al., 2023)",IL-8,blood (unspecified),NS,depression,depressed patients,2,NR/NR,NR,not applicable,III
+depression,"(Gedek et al., 2025)",IL-8,mixed: serum and plasma,NS,first-episode MDD,first-episode and/or antidepressant-naïve MDD patients vs HC,2,171/333,High,not applicable,III
+CVD,"(Hasan et al., 2012)",IL-8,blood (unspecified),↑,AIS,stroke patients,1,NR/45,Single-study,not applicable,III
+depression,"(Kuring et al., 2023)",P-selectin,blood (unspecified),NS,depression,depressed patients,1,NR/NR,Single-study,not applicable,III
+CVD,"(Hasan et al., 2012)",P-selectin,blood (unspecified),↑,AIS,stroke patients,2,NR/179,NR,not applicable,III
+depression,"(Sørensen et al., 2023)",WBC,peripheral blood (cell-count-derived),↑,MDD,depressed patients,35,1436/2836,Moderate,NO,III
+depression,"(Foley É et al., 2023)",WBC,peripheral blood (flow cytometry-derived),↑,MDD,MDD patients,7,163/268,Moderate,not applicable,III
+depression,"(Kuring et al., 2023)",WBC,peripheral blood (cell-count-derived),↑,depression,depressed patients,5,NR/NR,High,not applicable,III
+depression,"(Mousten et al., 2022)",WBC,CSF cell count,NS,clinically diagnosed unipolar depression (primarily MDD),MDD patients,3,184/379,Moderate,not applicable,III
+depression,"(Sørensen et al., 2023)",WBC,CSF cell count,NS,MDD,MDD patients,4,290/591,Moderate,not applicable,III
+depression,"(Yang et al., 2026)",WBC,peripheral blood (cell-count-derived),↑,MDD,BD vs MDD,4,not applicable/NR,High,not applicable,III
+CVD,"(Ding et al., 2023)",WBC,peripheral blood (cell-count-derived),NS,VTE ,general participants,2,427/47044,NR,not applicable,III
+CVD,"(Ding et al., 2023)",WBC,peripheral blood (cell-count-derived),↑,VTE ,newly diagnosed VTE patients,9,1016/2261,NR,not applicable,III
+CVD,"(Ding et al., 2023)",WBC,peripheral blood (cell-count-derived),NS,VTE ,patients with previous VTE,3,902/1538,NR,not applicable,III
+CVD,"(Bombaci et al., 2026)",WBC,peripheral blood (cell-count-derived),↑,AIS,AIS patients,7,372/2942,High,not applicable,III
+CVD,"(Shen et al., 2025)",WBC,peripheral blood (cell-count-derived),↑,CVT vs HC,CVT patients vs HC,6,444/1112,High,not applicable,III
+CVD,"(Shen et al., 2025)",WBC,peripheral blood (cell-count-derived),↑,IS vs HC,IS patients vs HC,6,344/1102,Moderate,not applicable,III
+depression,"(Sørensen et al., 2023)",lymphocytes,peripheral blood (cell-count-derived),NS,MDD,depressed patients,44,1857/3531,Moderate,NO,III
+depression,"(Kuring et al., 2023)",lymphocytes,peripheral blood (cell-count-derived),↑,depression,depressed patients,8,NR/NR,High,not applicable,III
+depression,"(Yang et al., 2026)",lymphocytes,peripheral blood (cell-count-derived),NS,MDD,BD vs MDD,4,not applicable/NR,Moderate,not applicable,III
+CVD,"(Ding et al., 2023)",lymphocytes,peripheral blood (cell-count-derived),↓,VTE ,newly diagnosed VTE patients,6,609/1089,NR,not applicable,III
+CVD,"(Ding et al., 2023)",lymphocytes,peripheral blood (cell-count-derived),NS,VTE ,patients with previous VTE,3,902/1538,NR,not applicable,III
+CVD,"(Bombaci et al., 2026)",lymphocytes,peripheral blood (cell-count-derived),NS,AIS,AIS patients,2,97/308,High,not applicable,III
+CVD,"(Shen et al., 2025)",lymphocytes,peripheral blood (cell-count-derived),↓,CVT vs HC,CVT patients vs HC,6,444/1112,Moderate,not applicable,III
+CVD,"(Shen et al., 2025)",lymphocytes,peripheral blood (cell-count-derived),↓,IS vs HC,IS patients vs HC,2,286/1231,Low,not applicable,III

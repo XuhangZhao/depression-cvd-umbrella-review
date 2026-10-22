@@ -1,0 +1,13 @@
+Scope,Grade,Count,Percent
+Overall,High,0,0.0
+Overall,Moderate,33,32.0
+Overall,Low,40,38.8
+Overall,Critically low,30,29.1
+depression,High,0,0.0
+depression,Moderate,18,40.0
+depression,Low,16,35.6
+depression,Critically low,11,24.4
+CVD,High,0,0.0
+CVD,Moderate,15,25.9
+CVD,Low,24,41.4
+CVD,Critically low,19,32.8

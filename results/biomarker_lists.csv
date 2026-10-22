@@ -1,0 +1,158 @@
+category,biomarker
+Depression only,activated T cells
+Depression only,Anti-HLA-DR
+Depression only,basophils
+Depression only,CCL1
+Depression only,CCL11
+Depression only,CCL13
+Depression only,CCL17
+Depression only,CCL19
+Depression only,CCL20
+Depression only,CCL23
+Depression only,CCL24
+Depression only,CCL25
+Depression only,CCL27
+Depression only,CCL28
+Depression only,CCL3
+Depression only,CCL4
+Depression only,CCL5
+Depression only,CCL7
+Depression only,CCL8
+Depression only,CD14+
+Depression only,CD16+CD56+
+Depression only,CD19+
+Depression only,CD244
+Depression only,CD25+
+Depression only,CD3+
+Depression only,CD3+CD4+
+Depression only,CD3+CD4+CD25highFoxP3+
+Depression only,CD3+CD4+CD8-
+Depression only,CD3+CD4+IFN-γ+
+Depression only,CD3+CD4+IL-17A+
+Depression only,CD3+CD4+IL-4+
+Depression only,CD3+CD4-CD8+
+Depression only,CD3+CD8+
+Depression only,CD3+DR+
+Depression only,CD3+HLA-DR+
+Depression only,CD3-CD19+
+Depression only,CD3-CD56+
+Depression only,CD3-DR+
+Depression only,CD4+
+Depression only,CD4+ T cells
+Depression only,CD4+CD25+
+Depression only,CD4+CD45+
+Depression only,CD4+CD45-
+Depression only,CD4+CD45RO+
+Depression only,CD4+CD8+
+Depression only,CD4/CD8 ratio
+Depression only,CD40
+Depression only,CD40L
+Depression only,CD45+
+Depression only,CD5+CD19+
+Depression only,CD8+
+Depression only,CD8+CD57+
+Depression only,CD8+CD57-
+Depression only,CD80
+Depression only,CSF1
+Depression only,CXCL1
+Depression only,CXCL10
+Depression only,CXCL11
+Depression only,CXCL16
+Depression only,CXCL2
+Depression only,CXCL5
+Depression only,CXCL6
+Depression only,CXCL7
+Depression only,CXCL9
+Depression only,EGF
+Depression only,EN-RAGE
+Depression only,eosinophils
+Depression only,G-CSF
+Depression only,GM-CSF
+Depression only,granulocytes
+Depression only,HLA-DR+
+Depression only,HLA-DR+ T
+Depression only,IFN-α2
+Depression only,IFN-γ
+Depression only,IL-10RA
+Depression only,IL-10RB
+Depression only,IL-12
+Depression only,IL-12B
+Depression only,IL-13
+Depression only,IL-15
+Depression only,IL-15RA
+Depression only,IL-17C
+Depression only,IL-18R1
+Depression only,IL-1Ra
+Depression only,IL-1α
+Depression only,IL-2
+Depression only,IL-23
+Depression only,IL-3
+Depression only,IL-33
+Depression only,IL-4
+Depression only,IL-5
+Depression only,IL-7
+Depression only,IL-9
+Depression only,MLR
+Depression only,MMP-3
+Depression only,natural killer cells
+Depression only,NT-proBNP
+Depression only,platelets
+Depression only,sCD25
+Depression only,sICAM-1
+Depression only,sIL-2
+Depression only,sIL-2R
+Depression only,sIL-6
+Depression only,sIL-6R
+Depression only,SLAMF1
+Depression only,sTNFR1
+Depression only,sTNFR2
+Depression only,Th1
+Depression only,Th1/Th2 ratio
+Depression only,Th17
+Depression only,Th17/Treg ratio
+Depression only,Th2
+Depression only,TNF-β
+Depression only,TRANCE
+Depression only,Treg
+Depression only,TWEAK
+CVD only,amyloid A
+CVD only,chemerin
+CVD only,CT-1
+CVD only,Cyclophilin C
+CVD only,D-dimer
+CVD only,E-Selectin
+CVD only,endocan
+CVD only,Galectin-3
+CVD only,HMGB1
+CVD only,homocysteine
+CVD only,ICAM-1
+CVD only,Lp(a)
+CVD only,Lp-PLA2
+CVD only,MMP-9
+CVD only,neopterin
+CVD only,sCD40L
+CVD only,sP-selectin
+CVD only,VEGF
+CVD only,visfatin
+CVD only,YKL-40
+Shared,CCL2
+Shared,CRP/hsCRP
+Shared,CXCL4
+Shared,fibrinogen
+Shared,IL-1
+Shared,IL-10
+Shared,IL-17A/IL-17
+Shared,IL-18
+Shared,IL-1β
+Shared,IL-6
+Shared,IL-8
+Shared,lymphocytes
+Shared,monocytes
+Shared,neutrophils
+Shared,NLR
+Shared,P-selectin
+Shared,PLR
+Shared,SII
+Shared,TGF-β1/TGF-β
+Shared,TNF-α
+Shared,WBC

@@ -1,0 +1,104 @@
+review_id,reference,year,field,amstar_grade,amstar_item_1,amstar_item_2,amstar_item_3,amstar_item_4,amstar_item_5,amstar_item_6,amstar_item_7,amstar_item_8,amstar_item_9,amstar_item_10,amstar_item_11,amstar_item_12,amstar_item_13,amstar_item_14,amstar_item_15,amstar_item_16
+R001,"(Aghajani et al., 2022)",2022,CVD,Critically low,Y,N,N,P,Y,N,N,P,P,N,Y,N,N,Y,Y,Y
+R002,"(Behnoush et al., 2023)",2023,CVD,Critically low,N,N,N,P,Y,Y,N,Y,Y,N,Y,N,N,N,Y,Y
+R003,"(Berbach et al., 2025)",2025,CVD,Low,Y,Y,N,P,Y,N,N,Y,Y,N,Y,N,Y,Y,Y,Y
+R004,"(Bombaci et al., 2026)",2026,CVD,Critically low,Y,Y,N,P,Y,Y,N,Y,Y,N,Y,Y,N,Y,Y,Y
+R005,"(Brambilla et al., 2025)",2025,CVD,Critically low,Y,N,N,P,N,N,N,Y,N,N,Y,N,N,Y,Y,Y
+R006,"(Buckley et al., 2009)",2009,CVD,Critically low,Y,N,N,N,N,N,N,Y,P,N,Y,Y,Y,Y,Y,Y
+R007,"(Caiazzo et al., 2024)",2024,CVD,Critically low,Y,Y,N,P,Y,Y,N,Y,Y,N,Y,N,N,Y,N,Y
+R008,"(Chen et al., 2020)",2020,Depression,Critically low,Y,N,N,P,Y,Y,N,Y,Y,N,Y,N,Y,Y,Y,Y
+R009,"(Chen et al., 2025)",2025,CVD,Low,Y,Y,N,P,Y,Y,N,Y,Y,N,Y,N,Y,Y,Y,Y
+R010,"(Cheng et al., 2022)",2022,Depression,Critically low,Y,N,N,P,Y,N,N,Y,Y,N,Y,N,N,Y,Y,Y
+R011,"(Chi et al., 2025)",2025,CVD,Low,Y,Y,N,P,Y,Y,N,Y,Y,N,Y,Y,Y,Y,Y,Y
+R012,"(Diao et al., 2016)",2016,CVD,Critically low,Y,N,N,P,N,Y,N,Y,P,N,Y,N,N,Y,Y,Y
+R013,"(Ding et al., 2023)",2023,CVD,Critically low,Y,Y,N,P,N,Y,P,Y,N,N,Y,N,N,Y,Y,Y
+R014,"(Dowlati et al., 2010)",2010,Depression,Critically low,Y,N,N,P,Y,Y,N,Y,N,N,Y,N,N,Y,Y,Y
+R015,"(Enache et al., 2019)",2019,Depression,Critically low,Y,N,N,N,N,N,N,Y,N,N,N,N,N,Y,N,Y
+R016,"(Eyre et al., 2016)",2016,Depression,Critically low,Y,N,N,P,N,Y,Y,Y,Y,N,Y,N,N,N,Y,Y
+R017,"(Fatemian et al., 2024)",2024,Depression,Low,Y,Y,N,P,Y,Y,N,Y,Y,N,Y,Y,Y,Y,Y,Y
+R018,"(Foley É et al., 2023)",2023,Depression,Critically low,Y,N,N,P,Y,Y,N,Y,Y,N,Y,N,N,Y,Y,Y
+R019,"(Gedek et al., 2025)",2025,Depression,Critically low,Y,N,N,P,Y,Y,N,Y,Y,N,Y,Y,Y,Y,N,Y
+R020,"(Georgakis et al., 2019)",2019,CVD,Critically low,Y,N,N,N,N,N,N,Y,P,Y,Y,Y,Y,Y,N,Y
+R021,"(Ghulam et al., 2024)",2024,CVD,Critically low,Y,N,N,P,N,N,N,Y,N,N,Y,N,N,Y,Y,Y
+R022,"(Goh et al., 2023)",2023,Depression,Critically low,Y,N,N,P,N,N,N,Y,Y,N,Y,N,N,Y,Y,Y
+R023,"(Gong et al., 2020)",2020,CVD,Critically low,Y,N,N,P,N,Y,N,Y,Y,N,Y,N,N,Y,Y,Y
+R024,"(Gopalakrishnan et al., 2025)",2025,Depression,Critically low,Y,Y,N,P,Y,N,N,Y,Y,N,Y,N,N,N,N,Y
+R025,"(Haapakoski et al., 2015)",2015,Depression,Critically low,Y,N,N,Y,Y,Y,N,Y,Y,N,Y,Y,Y,Y,Y,N
+R026,"(Hasan et al., 2012)",2012,CVD,Critically low,Y,N,N,P,Y,N,N,Y,Y,N,Y,N,N,Y,N,Y
+R027,"(Hiles et al., 2012)",2012,Depression,Critically low,Y,N,N,P,N,N,N,Y,N,N,Y,N,N,Y,Y,N
+R028,"(Howren et al., 2009)",2009,Depression,Critically low,Y,N,Y,P,Y,N,N,Y,N,N,Y,N,N,Y,Y,N
+R029,"(Huang et al., 2024)",2024,CVD,Critically low,Y,Y,N,N,Y,Y,N,Y,Y,N,Y,N,N,Y,Y,Y
+R030,"(Islam et al., 2023)",2023,Depression,Critically low,Y,N,N,P,Y,Y,N,Y,Y,N,Y,N,N,Y,Y,Y
+R031,"(Ismaiel et al., 2022)",2022,CVD,Critically low,Y,N,N,P,N,N,Y,Y,Y,N,Y,Y,Y,Y,N,N
+R032,"(Jarkas et al., 2024)",2024,Depression,Low,Y,Y,N,P,Y,N,Y,Y,Y,N,Y,N,N,Y,Y,Y
+R033,"(Jayedi et al., 2019)",2019,CVD,Critically low,Y,N,N,P,Y,Y,N,Y,Y,N,Y,N,N,Y,Y,Y
+R034,"(Jefferis et al., 2011)",2011,CVD,Critically low,Y,N,N,P,N,Y,N,Y,N,N,Y,N,N,Y,Y,Y
+R035,"(Jia et al., 2020)",2020,CVD,Critically low,Y,N,N,P,Y,Y,N,Y,Y,N,Y,N,N,Y,Y,Y
+R036,"(Jiang et al., 2025)",2025,Depression,Low,Y,Y,N,P,Y,N,N,Y,Y,N,Y,N,Y,Y,Y,Y
+R037,"(Kuo et al., 2005)",2005,CVD,Critically low,Y,N,N,N,Y,Y,N,Y,N,N,Y,N,N,Y,N,Y
+R038,"(Kuring et al., 2023)",2023,Depression,Critically low,Y,Y,N,P,N,N,N,Y,Y,N,Y,N,N,Y,Y,Y
+R039,"(Köhler et al., 2017)",2017,Depression,Low,Y,N,N,P,N,N,Y,Y,P,N,Y,Y,Y,Y,Y,Y
+R040,"(Le et al., 2018)",2018,CVD,Critically low,Y,Y,N,P,Y,N,N,Y,Y,N,Y,N,N,Y,Y,Y
+R041,"(Leighton et al., 2018)",2018,Depression,Critically low,Y,N,N,P,N,Y,N,Y,Y,N,Y,Y,Y,Y,Y,Y
+R042,"(Li et al., 2016)",2016,CVD,Critically low,Y,N,N,Y,N,Y,N,Y,Y,N,Y,N,N,Y,Y,Y
+R043,"(Li et al., 2024)",2024,Depression,Critically low,Y,Y,N,P,Y,N,N,Y,Y,N,Y,N,N,Y,Y,Y
+R044,"(Li et al., 2026)",2026,Depression,Critically low,Y,N,N,P,Y,Y,N,Y,Y,N,Y,N,Y,Y,Y,Y
+R045,"(Liu et al., 2012)",2012,Depression,Critically low,Y,N,N,P,Y,N,N,Y,Y,N,Y,N,N,Y,Y,Y
+R046,"(Liu et al., 2014)",2014,CVD,Critically low,Y,N,N,P,N,Y,N,Y,Y,N,Y,N,N,Y,Y,Y
+R047,"(Liu et al., 2023)",2023,CVD,Critically low,Y,Y,N,P,N,Y,N,Y,Y,N,Y,N,N,Y,Y,Y
+R048,"(Mahmoudvand et al., 2025)",2025,CVD,Critically low,Y,N,N,P,Y,N,N,Y,Y,N,Y,N,N,N,N,Y
+R049,"(Mazza et al., 2018)",2018,Depression,Critically low,Y,Y,N,P,N,Y,N,Y,N,N,Y,N,N,Y,Y,Y
+R050,"(Meng & Cao, 2021)",2021,CVD,Critically low,Y,N,N,P,N,N,N,Y,Y,N,Y,N,N,Y,Y,Y
+R051,"(Miao et al., 2024)",2024,CVD,Critically low,Y,Y,N,P,Y,N,N,Y,Y,N,Y,N,N,Y,Y,Y
+R052,"(Moshfeghinia et al., 2025a)",2025,Depression,Critically low,Y,Y,N,Y,Y,Y,N,Y,Y,N,Y,Y,Y,Y,N,Y
+R053,"(Moshfeghinia et al., 2025b)",2025,Depression,Low,Y,Y,N,P,Y,N,N,Y,Y,N,Y,Y,Y,Y,Y,Y
+R054,"(Motawea et al., 2023)",2023,CVD,Critically low,Y,N,N,P,Y,Y,N,Y,Y,N,Y,Y,N,Y,N,Y
+R055,"(Moulton et al., 2025)",2025,Depression,Critically low,Y,N,Y,P,N,Y,N,Y,Y,N,Y,Y,N,Y,Y,Y
+R056,"(Mousten et al., 2022)",2022,Depression,Low,Y,Y,N,P,N,N,N,Y,Y,N,Y,Y,Y,Y,Y,Y
+R057,"(Nadeem et al., 2019)",2019,CVD,Critically low,Y,N,N,P,N,N,N,Y,N,N,Y,N,N,Y,Y,Y
+R058,"(Ng et al., 2018)",2018,Depression,Critically low,Y,N,N,P,Y,N,N,Y,Y,N,Y,N,N,Y,Y,Y
+R059,"(Ni et al., 2019)",2019,CVD,Critically low,Y,Y,N,P,Y,N,N,Y,Y,Y,Y,Y,N,Y,Y,Y
+R060,"(Osimo et al., 2019)",2019,Depression,Critically low,Y,Y,N,N,Y,N,N,Y,Y,N,Y,Y,N,Y,Y,Y
+R061,"(Osimo et al., 2020)",2020,Depression,Low,Y,Y,N,P,N,N,N,Y,Y,N,Y,Y,Y,Y,Y,Y
+R062,"(Pereira-da-Silva et al., 2021)",2021,CVD,Low,Y,Y,N,P,Y,N,N,Y,Y,N,Y,Y,Y,Y,Y,Y
+R063,"(Piccardi et al., 2017)",2017,CVD,Critically low,Y,Y,N,P,N,N,N,Y,Y,N,Y,N,N,Y,N,Y
+R064,"(Ruan et al., 2017)",2017,CVD,Critically low,Y,N,N,P,N,Y,N,Y,Y,N,Y,N,N,Y,Y,Y
+R065,"(Saito et al., 2014)",2014,CVD,Critically low,Y,N,N,N,N,N,N,Y,Y,N,Y,N,N,Y,Y,Y
+R066,"(Sarejloo et al., 2022)",2022,Depression,Critically low,Y,N,N,P,Y,N,N,Y,Y,N,Y,Y,N,Y,Y,Y
+R067,"(Sarejloo et al., 2023)",2023,CVD,Critically low,Y,N,N,P,Y,N,N,Y,Y,N,Y,Y,Y,Y,Y,Y
+R068,"(Shen et al., 2025)",2025,CVD,Low,Y,Y,N,Y,Y,Y,N,Y,Y,N,Y,N,Y,Y,Y,Y
+R069,"(Song et al., 2014)",2014,CVD,Critically low,Y,N,N,P,N,Y,Y,Y,Y,N,Y,N,N,Y,Y,Y
+R070,"(Song et al., 2016)",2016,CVD,Critically low,Y,N,N,P,N,N,N,Y,Y,N,Y,N,N,Y,Y,Y
+R071,"(Strawbridge et al., 2015)",2015,Depression,Critically low,Y,N,N,P,Y,N,N,Y,Y,N,Y,N,N,Y,Y,Y
+R072,"(Su et al., 2022)",2022,Depression,Low,Y,Y,N,P,Y,Y,N,Y,Y,N,Y,N,Y,Y,Y,Y
+R073,"(Sun et al., 2025)",2025,CVD,Low,Y,Y,N,P,Y,Y,N,Y,Y,N,Y,Y,Y,Y,Y,Y
+R074,"(Sørensen et al., 2023)",2023,Depression,Low,Y,Y,N,P,N,Y,N,Y,Y,N,Y,Y,Y,Y,Y,Y
+R075,"(Takagi et al., 2009)",2009,CVD,Critically low,Y,N,N,P,N,N,Y,P,N,N,Y,N,N,Y,Y,Y
+R076,"(Takagi et al., 2014)",2014,CVD,Critically low,Y,N,N,P,N,N,N,Y,N,N,Y,N,N,Y,Y,N
+R077,"(Tian et al., 2017)",2017,CVD,Critically low,Y,N,N,P,N,Y,N,Y,Y,N,Y,N,N,Y,Y,Y
+R078,"(Tian et al., 2023)",2023,CVD,Low,Y,Y,N,P,N,Y,N,Y,Y,N,Y,N,Y,Y,Y,Y
+R079,"(Wang & Miller, 2018)",2018,Depression,Critically low,Y,N,N,P,N,Y,N,Y,N,N,Y,N,N,Y,Y,Y
+R080,"(Wang et al., 2022)",2022,CVD,Low,Y,Y,N,P,Y,N,N,Y,Y,N,Y,Y,Y,Y,Y,Y
+R081,"(Wang et al., 2024)",2024,Depression,Low,Y,Y,N,P,Y,Y,N,Y,Y,N,Y,N,Y,Y,Y,Y
+R082,"(Wiseman et al., 2014)",2014,CVD,Critically low,Y,Y,N,P,N,N,N,Y,Y,N,Y,N,N,Y,N,Y
+R083,"(Więdłocha et al., 2018)",2018,Depression,Critically low,Y,N,N,P,N,N,N,Y,N,N,Y,N,N,Y,N,Y
+R084,"(Xu et al., 2020)",2020,CVD,Critically low,Y,N,N,P,Y,Y,N,Y,Y,N,Y,N,N,Y,N,Y
+R085,"(Yang et al., 2014)",2014,CVD,Critically low,Y,N,N,P,N,Y,N,Y,Y,N,Y,Y,Y,Y,Y,N
+R086,"(Yang et al., 2022)",2022,Depression,Critically low,Y,N,N,P,Y,Y,N,Y,Y,N,Y,N,N,Y,Y,Y
+R087,"(Yang et al., 2026)",2026,Depression,Low,Y,Y,N,Y,Y,Y,N,Y,Y,N,Y,N,Y,Y,Y,Y
+R088,"(Yao Zhou et al., 2025)",2025,Depression,Low,Y,Y,N,P,Y,N,N,Y,Y,N,Y,N,Y,Y,Y,Y
+R089,"(Ye et al., 2022)",2022,CVD,Critically low,Y,N,N,P,Y,Y,N,Y,Y,N,Y,N,N,Y,Y,Y
+R090,"(Yu et al., 2018)",2018,CVD,Critically low,Y,N,N,P,Y,Y,Y,Y,Y,N,Y,N,N,Y,Y,Y
+R091,"(Yu et al., 2019)",2019,CVD,Critically low,Y,N,N,P,Y,Y,N,Y,Y,N,Y,N,N,Y,Y,Y
+R092,"(Yu et al., 2025)",2025,CVD,Low,Y,Y,N,P,Y,Y,N,Y,Y,N,Y,N,Y,Y,Y,Y
+R093,"(Yuanyuan Zhou et al., 2025)",2025,Depression,Low,Y,Y,N,P,Y,Y,N,Y,Y,N,Y,Y,Y,Y,Y,Y
+R094,"(Zare et al., 2026)",2026,CVD,Low,Y,Y,N,Y,Y,Y,N,Y,Y,N,Y,Y,Y,Y,Y,Y
+R095,"(Zhang et al., 2018)",2018,CVD,Critically low,Y,N,N,P,N,N,N,Y,N,N,Y,N,N,Y,N,Y
+R096,"(Zhang et al., 2023)",2023,Depression,Critically low,Y,N,N,P,Y,N,N,Y,N,N,Y,N,N,Y,Y,Y
+R097,"(Zhao et al., 2018)",2018,CVD,Critically low,Y,N,N,P,Y,N,N,Y,Y,N,Y,N,N,Y,Y,Y
+R098,"(Zhao et al., 2024)",2024,CVD,Low,Y,Y,N,P,Y,Y,N,Y,Y,N,Y,N,Y,Y,Y,Y
+R099,"(Zheng et al., 2024)",2024,Depression,Critically low,Y,Y,N,P,N,N,N,Y,Y,N,Y,N,N,Y,N,Y
+R100,"(Zhou et al., 2016)",2016,CVD,Critically low,Y,N,N,P,N,Y,N,Y,Y,N,Y,Y,Y,Y,Y,Y
+R101,"(Zhou et al., 2020)",2020,CVD,Critically low,Y,N,N,P,Y,Y,N,Y,Y,N,Y,N,Y,Y,Y,Y
+R102,"(Zhu and Li, 2025)",2025,Depression,Low,Y,Y,N,P,Y,Y,N,Y,Y,N,Y,Y,Y,Y,Y,Y
+R103,"(Çakici et al., 2020)",2020,Depression,Critically low,Y,N,N,P,Y,Y,N,Y,Y,N,Y,Y,Y,Y,Y,Y
