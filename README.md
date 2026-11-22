@@ -2,7 +2,7 @@
 
 This repository provides data and code for biomarker summaries, AMSTAR 2 item-level analysis, primary-study overlap calculations and Figure 2.
 
-The manuscript has been accepted in principle by *Nature Mental Health*. A link to the published article will be added upon publication.
+The manuscript has been accepted by *Nature Mental Health*. A link to the published article will be added upon publication.
 
 ## Analyses
 
